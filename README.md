@@ -3,6 +3,6 @@ Celebrating Pi Day!!
 
 Simple pyhon script finding appriximate of pi number using Monte Carlo method.
 
-To run you need python 3.*
+To script run you need python 3.*
   
 
